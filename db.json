@@ -2,6 +2,6 @@
   "firmware":
     {
       "version": 0.1,
-      ".bin": "troxa"
+      ".bin": "https://github.com/Gabriellameirinhas/OTAtesting/raw/master/firmware.bin"
     }
 }
